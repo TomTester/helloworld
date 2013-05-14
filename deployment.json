@@ -1,5 +1,5 @@
 {
         "strategy": "hanaxs",
-	"host": "hostname:30015",
+	"host": "http://hanasvr-08.sapdevcenter.com:8000",
 	"root": "foo"
 }
